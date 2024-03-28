@@ -1,0 +1,9 @@
+.gpt3__companies-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.gpt3__companies-logo img {
+    margin: 1rem;
+}
