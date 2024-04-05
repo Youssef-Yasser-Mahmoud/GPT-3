@@ -4,13 +4,6 @@
 
 Join AI Avenue today and unlock the potential of GPT-3 to drive innovation, inspire creativity, and change the world. The future of AI is here, and it's waiting for you to explore."
 
-### Tech
-
-| No.  | Languages     |
-|-----:|---------------|
-|     1| React         |
-|     2| CSS           |
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
